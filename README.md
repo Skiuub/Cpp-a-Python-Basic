@@ -22,4 +22,10 @@ Ejecucion:
     - Abriendo VScode y ejecutando en el boton de PLAY como sale especificado en el inciso de Requisitos
  2. Python al ser un lenguaje interpretado puedes optar por Editores de texto como PyCharm, VScode, Notepad++, SublimeText3, o incluso el mismo IDE de python, por lo que USA EL QUE MAS TE ACOMODE.
  
+ 
+Adicional:
+ - En caso de tener alguna duda que no aparezca en el tutorial o en Google, link de chatGPT -> https://chat.openai.com/
+ 
+ 
+ 
  Credits: Skiub

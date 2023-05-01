@@ -1,5 +1,5 @@
-# Cpp-a-Python-Basic
-Cambio basico de C++ a python
+# Tutorial basico para pasar de C++ a Python
+
 
 Conocimientos previos (Mini catedra):
   - A diferencia de C o C++, Python es un lenguaje interpretado, lo que quiere decir que para poder ejecutar un archivo de python hace falta solo usar el comando "python3 namefile.py" para que el programa funcione, a diferencia de otros lenguajes compilados que primero hay que compilar el archivo y despues que no haya ningun error recien podemos ejecutar nuestro ejecutable.

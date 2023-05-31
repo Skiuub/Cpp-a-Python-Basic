@@ -8,7 +8,7 @@
   - Cada lenguaje tiene su propia extension respectiva de archivos, en el caso de C es archivo.c, en caso de C++ es archivo.cpp y en caso de python que es el que nos interesa, es archivo.py
   - Existe una derivacion de python que se llaman notebooks, por lo general se hacen con un programa llamado jupyter, pero es complicarse la vida por las puras y su funcionamiento es despreciable dentro de este turorial. (En cualquier caso la extension de las notebooks es archivo.pynb)
   
-# Requisitos:
+## Requisitos:
   - Descargar python3 -> https://www.python.org/downloads/
   - Descargar VScode para mas placer -> https://code.visualstudio.com/download
     - Dentro de VScode al crear nuestro primer archivo.py, se nos preguntara si queremos instalar los paquetes de python que hay disponibles, aceptamos
@@ -16,14 +16,14 @@
     - Una vez guardamos lo que queremos ejecutar nos vamos arriba a la derecha y vemos un signo de PLAY
     - Una vez ejecutado nuestro codigo sin errores se abrira una terminal en la parte inferior para retornarnos "Hola mundo"
     
-# Ejecucion:
+## Ejecucion:
  1. Una vez instalado Python, tienes varias formas de poder ejecutar estos archivos.
     - La primera es abriendo una terminal y ejecutando el comando "python3 namefile.py" donde "namefile.py" corresponde a nuestro archivo python creado
     - Abriendo VScode y ejecutando en el boton de PLAY como sale especificado en el inciso de Requisitos
  2. Python al ser un lenguaje interpretado puedes optar por Editores de texto como PyCharm, VScode, Notepad++, SublimeText3, o incluso el mismo IDE de python, por lo que USA EL QUE MAS TE ACOMODE.
  
  
-# Adicional:
+## Adicional:
  - En caso de tener alguna duda que no aparezca en el tutorial o en Google, link de chatGPT -> https://chat.openai.com/
  - En caso de querer usar otra con acceso a internet, recomiendo estas 2:
     - Phind -> https://www.phind.com

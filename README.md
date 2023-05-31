@@ -25,6 +25,9 @@ Ejecucion:
  
 Adicional:
  - En caso de tener alguna duda que no aparezca en el tutorial o en Google, link de chatGPT -> https://chat.openai.com/
+ - En caso de querer usar otra con acceso a internet, recomiendo estas 2:
+    - Phind -> https://www.phind.com
+    - You -> https://you.com
  
  
  

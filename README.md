@@ -1,7 +1,7 @@
 # Tutorial basico para pasar de C++ a Python
 
 
-# Conocimientos previos (Mini catedra):
+## Conocimientos previos (Mini catedra):
   - A diferencia de C o C++, Python es un lenguaje interpretado, lo que quiere decir que para poder ejecutar un archivo de python hace falta solo usar el comando "python3 namefile.py" para que el programa funcione, a diferencia de otros lenguajes compilados que primero hay que compilar el archivo y despues que no haya ningun error recien podemos ejecutar nuestro ejecutable.
   - Esta pequeña gran diferencia nos plantea un par de cambios por ejemplo a la hora de buscar errores, en python no sabremos que contamos con un error hasta que el flujo de control de nuestro programa llegue hasta ese punto del codigo, cosa que no pasaria en un lenguaje compilado, ya que recordemos que al momento de compilar se hace una verificacion de todos los archivos antes de poder ejecutar nuestro codigo.
   - Python al ser un lenguaje interpretado solo va a ejecutar nuestras ordenes por lo que si en un ciclo no definimos bien un limite, EL PROGRAMADOR DEBERÁ HACERSE CARGO DE LAS CONSECUENCIAS, ya que al no haber limite dentro de un ciclo infinito, el limite lo pone nuestra CPU, al momento de explotar o reiniciar el equipo automaticamente.
